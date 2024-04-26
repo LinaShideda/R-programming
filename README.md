@@ -14,6 +14,3 @@ Regression models were developed to predict car prices based on various attribut
 
 ## Analysis
 We incorporated registered car sales data from Statistics Sweden (SCB) to observe market trends, particularly the rise in electric and hybrid car sales.
-
-## License
-This project is licensed under the MIT License.
