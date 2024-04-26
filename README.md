@@ -1,7 +1,5 @@
 # R-programming
 
-# Project README
-
 ## Overview
 This project analyzes BMW car data to understand market trends and consumer preferences. The dataset includes attributes like model year, mileage, transmission type, fuel type, and model.
 
